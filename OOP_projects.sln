@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Laba1_projects", "Laba1_projects", "{6D03B207-F582-41C5-8F95-73578A5A06DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie2", "Zadanie2\Zadanie2.csproj", "{832F74F9-12D3-48C2-8D14-EF3C681E0688}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie3", "Zadanie3\Zadanie3.csproj", "{8417F092-BB06-4E28-B7BB-68188A58E5AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie1", "Zadanie1\Zadanie1.csproj", "{2822D7EF-385D-40A0-B9A6-943E27A946B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie1Tests", "Zadanie1Tests\Zadanie1Tests.csproj", "{FB2402A2-2C69-44FB-AEBA-E4DE0122C945}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryCardMethod", "FactoryCardMethod\FactoryCardMethod.csproj", "{E16F9536-C374-4864-9E9D-65074D9329FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{832F74F9-12D3-48C2-8D14-EF3C681E0688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832F74F9-12D3-48C2-8D14-EF3C681E0688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832F74F9-12D3-48C2-8D14-EF3C681E0688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832F74F9-12D3-48C2-8D14-EF3C681E0688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8417F092-BB06-4E28-B7BB-68188A58E5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8417F092-BB06-4E28-B7BB-68188A58E5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8417F092-BB06-4E28-B7BB-68188A58E5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8417F092-BB06-4E28-B7BB-68188A58E5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2822D7EF-385D-40A0-B9A6-943E27A946B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2822D7EF-385D-40A0-B9A6-943E27A946B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2822D7EF-385D-40A0-B9A6-943E27A946B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2822D7EF-385D-40A0-B9A6-943E27A946B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2402A2-2C69-44FB-AEBA-E4DE0122C945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2402A2-2C69-44FB-AEBA-E4DE0122C945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2402A2-2C69-44FB-AEBA-E4DE0122C945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2402A2-2C69-44FB-AEBA-E4DE0122C945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E16F9536-C374-4864-9E9D-65074D9329FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16F9536-C374-4864-9E9D-65074D9329FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16F9536-C374-4864-9E9D-65074D9329FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16F9536-C374-4864-9E9D-65074D9329FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{832F74F9-12D3-48C2-8D14-EF3C681E0688} = {6D03B207-F582-41C5-8F95-73578A5A06DC}
+		{8417F092-BB06-4E28-B7BB-68188A58E5AB} = {6D03B207-F582-41C5-8F95-73578A5A06DC}
+		{2822D7EF-385D-40A0-B9A6-943E27A946B1} = {6D03B207-F582-41C5-8F95-73578A5A06DC}
+		{FB2402A2-2C69-44FB-AEBA-E4DE0122C945} = {6D03B207-F582-41C5-8F95-73578A5A06DC}
+		{E16F9536-C374-4864-9E9D-65074D9329FB} = {6D03B207-F582-41C5-8F95-73578A5A06DC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EE44258-3631-45EB-B4D8-65187401F2AD}
+	EndGlobalSection
+EndGlobal
